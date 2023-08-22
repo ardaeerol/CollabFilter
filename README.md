@@ -19,16 +19,16 @@ This repository contains a collaborative filtering recommendation system develop
    ```
    
 
-   2. Install the necessary dependencies:
+2. Install the necessary dependencies:
    
    ```bash
    cd CollabFilter
    pip install -r requirements.txt
    ```
    
-   4. Customize the Filter parameters according to your specific use case.
+4. Customize the Filter parameters according to your specific use case.
    
-   5. Run the main script to perform similarity search on your dataset:
+5. Run the main script to perform similarity search on your dataset:
    
    ```bash
    python main.py
