@@ -27,7 +27,7 @@ This repository contains a collaborative filtering recommendation system develop
    
 4. Customize the Filter parameters according to your specific use case.
    
-5. Run the main script to perform similarity search on your dataset:
+5. Run the main script to perform collaborative filtering on your dataset:
    
    ```bash
    python main.py
