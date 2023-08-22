@@ -16,6 +16,8 @@ This repository contains a collaborative filtering recommendation system develop
    ```bash
    git clone https://github.com/ardaeerol/CollabFilter.git
    cd CollabFilter
+   ```
+   
 
    2. Install the necessary dependencies:
    
