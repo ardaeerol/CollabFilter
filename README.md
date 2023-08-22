@@ -17,20 +17,20 @@ This repository contains a collaborative filtering recommendation system develop
    git clone https://github.com/ardaeerol/CollabFilter.git
    cd CollabFilter
 
-2. Install the necessary dependencies:
-
-```bash
-cd CollabFilter
-pip install -r requirements.txt
-```
-
-4. Customize the Filter parameters according to your specific use case.
-
-5. Run the main script to perform similarity search on your dataset:
-
-```bash
-python main.py
-```
+   2. Install the necessary dependencies:
+   
+   ```bash
+   cd CollabFilter
+   pip install -r requirements.txt
+   ```
+   
+   4. Customize the Filter parameters according to your specific use case.
+   
+   5. Run the main script to perform similarity search on your dataset:
+   
+   ```bash
+   python main.py
+   ```
 
 ## Contributions
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
