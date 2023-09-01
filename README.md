@@ -2,7 +2,7 @@
 
 This repository contains a collaborative filtering recommendation system developed as part of the CS476 Data Mining course.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-brightgreen)](https://github.com/mustafabukh/BDAM-XBD)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-brightgreen)](https://github.com/ardaeerol/CollabFilter)
 [![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
 
 ## Features
